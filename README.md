@@ -7,6 +7,10 @@ This is the basic implementation of a HelloWorld program. This is to demonstrate
 
 - [Software Demo Video](http://youtube.link.goes.here)
 
+# Future Work
+
+The next step is to develop a Task Manager program using the same tools. 
+
 # Development Environment
 
 - Kotlin version 2.0.21-release-482 (JRE 22.0.1+8-16)
